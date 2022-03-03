@@ -1,5 +1,5 @@
 # java 环境
-FROM java:8u111
+FROM java:8u112
 
 # 定义工作目录
 WORKDIR /app
